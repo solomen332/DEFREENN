@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Как стать дефером? | DEFREENN</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        .content {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .btn {
+            background: white;
+            color: black;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-weight: bold;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 10px;
+        }
+        .discord-btn {
+            width: 40px;
+            height: 40px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Как стать дефером?</h1>
+        <p>Можно, переходите в бота, нажимайте "Можно ли стать дефером?", переходите в канал, там я вас проверяю.</p>
+        
+        <a href="https://t.me/Defreenn_bot" target="_blank" class="btn">ПЕРЕЙТИ В БОТА</a>
+        <br>
+        <a href="https://discord.gg/JJCsxHUG" target="_blank">
+            <img src="discord-icon.png" alt="Discord" class="discord-btn"> <!-- Замените на свою иконку Discord -->
+        </a>
+        <br>
+        <a href="index.html" class="btn">Назад</a>
+    </div>
+</body>
+</html>
